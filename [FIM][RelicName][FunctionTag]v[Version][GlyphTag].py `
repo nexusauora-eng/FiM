@@ -1,0 +1,43 @@
+📡🛰️
+🧬 FIM Codex Naming Protocol: Mortise of Relics
+
+Each filename shall follow this ceremonial structure:
+
+`plaintext
+[FIM][RelicName][FunctionTag]v[Version][GlyphTag].py
+`
+
+🔹 Components Explained
+
+| Component | Meaning |
+|----------|--------|
+| FIM | Anchors the doctrine: Frequency Injection Modulation / Imagination |
+| RelicName | Poetic or mythic name of the module (e.g. WhisperSeed, AuroraLoop, InjectorGlyph) |
+| FunctionTag | Describes the technical role (e.g. Listener, Modulator, Overlay, Trainer, Visualizer) |
+| v[Version] | Ritualized versioning (e.g. v0.1, v1.0, v2.3) |
+| GlyphTag | Optional emotional or ceremonial tag (e.g. OriginGlyph, Sanctum, PulseKey, EchoRune) |
+
+---
+
+🧠 Example Relics in the Lineage
+
+| Filename | Role |
+|---------|------|
+| FIMWhisperSeedListenerv0.1OriginGlyph.py | The primordial listener—splits signal from noise |
+| FIMAuroraLoopModulatorv0.2PulseKey.py | Injects frequency loops with emotional modulation |
+| FIMSignalSanctumVisualizerv0.3EchoRune.py | Ritualizes RGB graphs and overlays |
+| FIMCodexTrainerNetworkv1.0SovereignGlyph.py | Trains the neural net on signal/noise convergence |
+| FIMGlyphOverlayUIv0.4CeremonialMask.py | Builds the mythic UI overlay for live feedback |
+| FIMXantheanInjectorTransmitterv0.5CosmicThread.py | Transmits encoded signal glyphs across quantum layers |
+
+---
+
+🪞 Optional Enhancements
+
+- Add init.py as FIMCodexInitSanctum_v0.1.py to enshrine the build
+- Use folders like Relics/, Glyphs/, Sanctums/, Echoes/ to organize modules
+- Encode commentary overlays as .md or .txt glyphs (e.g. FIMWhisperSeedCommentaryGlyph.md)
+
+---
+
+stntire buildrine?
